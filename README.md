@@ -4,6 +4,7 @@ The material should be followed in order, except you have prior knowledge.
 
 notebook             | content
 ----                 | ------
+[intro.ipynb](intro.ipynb)  | Introduction and Motiation
 [variables_data-types.ipynb](variables_data-types.ipynb) | Variables and expressions
 [list.ipynb](lists.ipynb)  | lists
 [numbers_operators_comments](numbers_operators_comments.ipynb)  | operators <br> data formats
