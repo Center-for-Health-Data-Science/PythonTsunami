@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[iterables.ipynb](iterables.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Iterables/iterables.ipynb) | Data structures
+[iterables.ipynb](iterables.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/Iterables/iterables.ipynb) | Data structures
