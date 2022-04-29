@@ -11,17 +11,18 @@ __Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytu
   
 | DAY 1                                                | DAY 2                                                |
 |------------------------------------------------------|------------------------------------------------------|
-|Morning coffee (optional) | Morning coffee (optional) |
-|[Introduction and Motivation](Introduction_and_tools) | [Recap and questions](Recap)                         |
+| Morning coffee (optional)                             | Morning coffee (optional)                           |
+| [Introduction and Motivation](Introduction_and_tools) | Libraries, Objects, References                      |
+| [Variables and data types](Variables_data_types)     | Q & A                                                |
+| Coffee break                                         | Coffee break                                         |  
+| [Iterables I](Iterables)                             | [Pandas](Pandas)                                     |
 | Coffee break                                         | Coffee break                                         |
-|[Variables and data types](Variables_data_types)      | [Functions](Functions)                               |
-|                                                      | [Pandas](Pandas)                                     |
+| [Iterables II](Iterables)                            | [Pandas](Pandas)                                     |
 | Lunch                                                | Lunch                                                |
-| [Iterables I](Iterables)                             | [Pandas](Pandas)/[Visualization](Visualizations)      |
-| [Iterables II](Iterables)                            | [Visualization](Visualizations)                       | 
+| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     |
+| [Loops](Loops)                                       | [Visualization](Visualizations)                      | 
 | Coffee break                                         | Coffee break                                         |
-| [Booleans, operators and conditions](Conditionals)   | [Exercise](Exercise)                                 |
-| [Loops](Loops)                                       | [Exercise](Exercise)                                 |
+| [Functions](Functions)                               | [Exercise](Exercise)                                 |
 | Q & A                                                | Q & A                                                |
 
 ## Program Spring 2022
