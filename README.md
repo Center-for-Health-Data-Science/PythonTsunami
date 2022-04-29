@@ -5,6 +5,8 @@
   <img src="figures/tsunami_logo.PNG" width="600">
 
 __Please help us to improve the course by filling out the [feedback form](https://forms.gle/hYgSpAJGBnSzuPFw7)__  
+
+Padlet for questions: [padlet] (https://ucph.padlet.org/henrikezschach1/7f65ytua2sv0qt9g)  
   
   
 | DAY 1                                                | DAY 2                                                |
