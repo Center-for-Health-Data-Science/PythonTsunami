@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[Functions.ipynb](Functions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Functions/Functions.ipynb) | Functions
+[Functions.ipynb](Functions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/Functions/Functions.ipynb) | Functions
