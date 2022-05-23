@@ -2,7 +2,7 @@
 
 <img src="../figures/tsunami_logo.PNG" width="600">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/HEAD/Data_structures/Arrays_numpy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/fall2021/Data_structures/Arrays_numpy.ipynb)
 
 # Arrays
 
@@ -638,7 +638,7 @@ data.sum(axis=1)
 ### new axis
 
 - sometimes needed for broadcasting (next sections)
-- You might need this if you later move to machine learning and start using [sklearn](https://github.com/Center-for-Health-Data-Science/PythonTsunami/tree/intro/ML)
+- You might need this if you later move to machine learning and start using [sklearn](https://github.com/Center-for-Health-Data-Science/PythonTsunami/tree/fall2021/ML)
 
 
 ```python
