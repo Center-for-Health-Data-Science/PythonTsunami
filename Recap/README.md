@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[recap_HZ.ipynb](recap_HZ.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Recap/recap_HZ.ipynb)| Recap
+[recap.ipynb](recap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/Recap/recap.ipynb)| Recap
