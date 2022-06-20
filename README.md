@@ -4,7 +4,7 @@
 <p align="center">
   <img src="figures/tsunami_logo.PNG" width="600">
 
-__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/r/TUyBaZ2qh0)__  
+__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/r/N2Vp9pYBQY)__  
 
 __Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytua2sv0qt9g)__  
   
