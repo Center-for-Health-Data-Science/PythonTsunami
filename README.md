@@ -13,7 +13,7 @@ __Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytu
 |------------------------------------------------------|------------------------------------------------------|
 | Morning coffee (optional)                             | Morning coffee (optional)                           |
 | [Introduction and Motivation](Introduction_and_tools) | [Libraries, Objects, References](Introduction_and_tools)|
-| [Variables and data types](Variables_data_types)     | Q & A                                                |
+| [Variables and data types](Variables_data_types)     | Q & A and [Recap](Recap)                             |
 | Coffee break                                         | Coffee break                                         |  
 | [Iterables I](Iterables)                             | [Pandas](Pandas)                                     |
 | Coffee break                                         | Coffee break                                         |
