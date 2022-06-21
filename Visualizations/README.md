@@ -6,8 +6,8 @@
 
 notebook             | content
 ----                 | ------
-[plotly.ipynb](plotly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/plotly.ipynb)| Plotly Express library [Be aware: [Plots stays interactive in nbviewer](https://nbviewer.org/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/plotly.ipynb#Bar-Charts)]
-[PlotlyExpress_ComprehensiveGuide.ipynb](PlotlyExpress_ComprehensiveGuide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/PlotlyExpress_ComprehensiveGuide.ipynb)| PlotlyExpress library guide (extensive external resource)
+[plotly.ipynb](plotly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/Visualizations/plotly.ipynb)| Plotly Express library [Be aware: [Plots stays interactive in nbviewer](https://nbviewer.org/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/plotly.ipynb#Bar-Charts)]
+[PlotlyExpress_ComprehensiveGuide.ipynb](PlotlyExpress_ComprehensiveGuide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/Visualizations/PlotlyExpress_ComprehensiveGuide.ipynb)| PlotlyExpress library guide (extensive external resource)
 
 ## Installing Plotly
 
