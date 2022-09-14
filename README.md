@@ -13,16 +13,16 @@ __Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytu
 |------------------------------------------------------|------------------------------------------------------|---------------------------------------|
 | Morning coffee (optional)                             | Morning coffee (optional)                           | Morning coffee (optional)             |
 | [Introduction and Motivation](Introduction_and_tools) | [Pandas](Pandas)                                    | [Libraries, Objects, References](Introduction_and_tools) |
-| [Variables and data types](Variables_data_types)     |                                                      | Q & A and [Recap](Recap)              |
-| Coffee break                                         | Coffee break                                         |                                       |
-| [Iterables I](Iterables)                             | [Pandas](Pandas)                                     |                                       |
-| Coffee break                                         |                                                      | Visualization                         |
+| [Variables and data types](Variables_data_types)     |                                                      | [Recap Quiz](Recap)                   |
+| Coffee break                                         | Coffee break                                         | Coffee break                          |
+| [Iterables I](Iterables)                             | [Pandas](Pandas)                                     | [Visualization](Visualizations)       |
+| Coffee break                                         |                                                      |                                       |
 | [Iterables II](Iterables)                            |                                                      |                                       |
 | Lunch                                                | Lunch                                                | Lunch                                 |
-| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     |                                       |
-| Coffee break                                         |                                                      |                                       |
-| [Loops](Loops)                                       |                                                      |                                       |
-| Q & A                                                | Q & A                                                | Exercise                              |
+| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
+| Coffee break                                         | Coffee break                                         | Coffee break                          |
+| [Loops](Loops)                                       | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
+| Q & A                                                | Q & A                                                | Q & A                                 |
 
 ## Program Spring 2022
 ![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/figures/program_june2022.png)
