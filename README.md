@@ -9,21 +9,20 @@ __Please help us to improve the course by filling out the [feedback form](https:
 __Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytua2sv0qt9g)__  
   
   
-| DAY 1                                                | DAY 2                                                |
-|------------------------------------------------------|------------------------------------------------------|
-| Morning coffee (optional)                             | Morning coffee (optional)                           |
-| [Introduction and Motivation](Introduction_and_tools) | [Libraries, Objects, References](Introduction_and_tools)|
-| [Variables and data types](Variables_data_types)     | Q & A and [Recap](Recap)                             |
-| Coffee break                                         | Coffee break                                         |  
-| [Iterables I](Iterables)                             | [Pandas](Pandas)                                     |
-| Coffee break                                         | Coffee break                                         |
-| [Iterables II](Iterables)                            | [Pandas](Pandas)                                     |
-| Lunch                                                | Lunch                                                |
-| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     |
-| [Loops](Loops)                                       | [Visualization](Visualizations)                      | 
-| Coffee break                                         | Coffee break                                         |
-| [Functions](Functions)                               | [Exercise](Exercise)                                 |
-| Q & A                                                | Q & A                                                |
+| DAY 1                                                | DAY 2                                                | DAY 3                                 |
+|------------------------------------------------------|------------------------------------------------------|---------------------------------------|
+| Morning coffee (optional)                             | Morning coffee (optional)                           | Morning coffee (optional)             |
+| [Introduction and Motivation](Introduction_and_tools) | [Pandas](Pandas)                                    | [Libraries, Objects, References](Introduction_and_tools) |
+| [Variables and data types](Variables_data_types)     |                                                      | Q & A and [Recap](Recap)              |
+| Coffee break                                         | Coffee break                                         |                                       |
+| [Iterables I](Iterables)                             | [Pandas](Pandas)                                     |                                       |
+| Coffee break                                         |                                                      | Visualization                         |
+| [Iterables II](Iterables)                            |                                                      |                                       |
+| Lunch                                                | Lunch                                                | Lunch                                 |
+| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     |                                       |
+| Coffee break                                         |                                                      |                                       |
+| [Loops](Loops)                                       |                                                      |                                       |
+| Q & A                                                | Q & A                                                | Exercise                              |
 
 ## Program Spring 2022
 ![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/figures/program_june2022.png)
