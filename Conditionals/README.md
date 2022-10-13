@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[Conditions.ipynb](Conditions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/Conditionals/Conditions.ipynb) | Conditionals
+[Conditions.ipynb](Conditions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/oct_2022_3days/Conditionals/Conditions.ipynb) | Conditionals
