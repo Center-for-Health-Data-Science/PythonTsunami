@@ -25,7 +25,7 @@ __Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytu
 | Q & A                                                | Q & A                                                | Q & A                                 |
 
 ## Program Spring 2022
-![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/june2022/figures/program_oct_screen_GR.png)
+![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/oct_2022_3days/figures/program_oct_screen_GR.png)
 
 
 ## Further Resources
