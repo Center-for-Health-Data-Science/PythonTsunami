@@ -6,5 +6,5 @@
   
 notebook             | content
 ----                 | ------
-[Exercise_spring2022.ipynb](Exercise_spring2022.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/oct_2022_3days/Exercise/Exercise_spring2022.ipynb) | Exercise
+[Exercise_jan2023.ipynb](Exercise_jan2023.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/oct_2022_3days/Exercise/Exercise_jan2023.ipynb) | Exercise
   
