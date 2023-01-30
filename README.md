@@ -12,8 +12,8 @@ __Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytu
 | DAY 1                                                | DAY 2                                                | DAY 3                                 |
 |------------------------------------------------------|------------------------------------------------------|---------------------------------------|
 | Morning coffee (optional)                             | Morning coffee (optional)                           | Morning coffee (optional)             |
-| [Introduction and Motivation](Introduction_and_tools) | [Pandas](Pandas)                                    | [Libraries, Objects, References](Introduction_and_tools) |
-| [Variables and data types](Variables_data_types)     |                                                      | [Recap Quiz](Recap)                   |
+| [Introduction and Motivation](Introduction_and_tools) | [Pandas](Pandas)                                    | [Recap Quiz](Recap)                   |
+| [Variables and data types](Variables_data_types)     |                                                      |                                       |
 | Coffee break                                         | Coffee break                                         | Coffee break                          |
 | [Iterables I](Iterables)                             | [Pandas](Pandas)                                     | [Visualization](Visualizations)       |
 | Coffee break                                         |                                                      |                                       |
