@@ -4,9 +4,7 @@
 <p align="center">
   <img src="figures/tsunami_logo.PNG" width="600">
 
-__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/r/51vY1sVpDE)__  
-
-__Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytua2sv0qt9g)__  
+__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/e/WrZtM5dn8F)__  
   
   
 | DAY 1                                                | DAY 2                                                | DAY 3                                 |
@@ -19,7 +17,7 @@ __Padlet for questions: [padlet](https://ucph.padlet.org/henrikezschach1/7f65ytu
 | Coffee break                                         |                                                      |                                       |
 | [Iterables II](Iterables)                            |                                                      |                                       |
 | Lunch                                                | Lunch                                                | Lunch                                 |
-| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
+| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     | Virtual envs and installations        |
 | Coffee break                                         | Coffee break                                         | Coffee break                          |
 | [Loops](Loops)                                       | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
 | Q & A                                                | Q & A                                                | Q & A                                 |
