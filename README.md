@@ -46,7 +46,7 @@ __Please help us to improve the course by filling out the [feedback form](https:
 
 ### Basics
 - [codecademy](https://codecademy.com)
-  - Interactive website with many beginners code tutorials
+  - Interactive website with many beginners code tutorials. Requires sign-up but base content is free. 
 
 - [learnpython.org](https://www.learnpython.org/)
   - interactive python basics tutorial
