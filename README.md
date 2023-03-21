@@ -45,6 +45,9 @@ __Please help us to improve the course by filling out the [feedback form](https:
   - [Bokeh](cheat_sheets/Bokeh_Cheat_Sheet.pdf)
 
 ### Basics
+- [codecademy](https://codecademy.com)
+  - Interactive website with many beginners code tutorials
+
 - [learnpython.org](https://www.learnpython.org/)
   - interactive python basics tutorial
 
