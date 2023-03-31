@@ -1,0 +1,16 @@
+name: render page
+on:
+  push:
+    branches:
+      - webpage 
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: |
+          pip install mkdocs-material mkdocs-bibtex neoteroi-mkdocs mkdocs-video mkdocs-minify-plugin mkdocs-jupyter
+          mkdocs gh-deploy --force

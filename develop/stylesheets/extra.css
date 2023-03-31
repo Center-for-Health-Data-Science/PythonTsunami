@@ -1,0 +1,72 @@
+﻿[data-md-color-scheme="brightness"] {
+    /* Primary color shades */
+    --md-primary-fg-color: #4266A1;
+    --md-primary-fg-color--light: #b4dbf3;
+    --md-primary-fg-color--dark: #b4dbf3;
+    --md-primary-bg-color: hsla(0, 0%, 100%, 1);
+    --md-primary-bg-color--light: hsla(0, 0%, 100%, 1);
+    --md-text-link-color: #4266A1
+  /*  --md-text-link-color: hsla(231, 48%, 48%, 1); */
+    /* Accent color shades */
+    --md-accent-fg-color: #b4dbf3;
+    --md-accent-fg-color--transparent: #b4dbf3;
+    --md-accent-bg-color: hsla(0, 0%, 100%, 1);
+    --md-accent-bg-color--light: hsla(0, 0%, 100%, 1);
+    /* Code block color shades */
+    --md-code-bg-color: hsla(0, 0%, 96%, 1);
+    --md-code-fg-color: hsla(200, 18%, 26%, 1);
+    /* Footer */
+    --md-footer-bg-color: #4266A1;
+    --md-footer-bg-color--dark: hsla(0, 0%, 0%, 0.32);
+    --md-footer-fg-color: hsla(0, 0%, 100%, 1);
+    --md-footer-fg-color--light: hsla(0, 0%, 100%, 0.7);
+    --md-footer-fg-color--lighter: hsla(0, 0%, 100%, 0.3);
+  
+  }
+  
+  [data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #4266A1;
+    --md-primary-fg-color--light: #b4dbf3;
+    --md-primary-fg-color--dark: #b4dbf3;
+    --md-primary-bg-color: hsla(0, 0%, 100%, 1);
+    --md-primary-bg-color--light: hsla(0, 0%, 100%, 0.7);
+    --md-text_link-color: #4266A1
+    /* --md-text-link-color: hsla(231, 48%, 48%, 1);*/
+    /* Accent color shades */
+    --md-accent-fg-color: #b4dbf3;
+    --md-accent-fg-color--transparent: #b4dbf3;
+    --md-accent-bg-color: hsla(0, 0%, 100%, 1);
+    --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
+    --md-hue: 210;
+    /* Footer */
+    --md-footer-bg-color: #4266A1;
+    --md-footer-bg-color--dark: hsla(0, 0%, 0%, 0.32);
+    --md-footer-fg-color: hsla(0, 0%, 100%, 1);
+    --md-footer-fg-color--light: hsla(0, 0%, 100%, 0.7);
+    --md-footer-fg-color--lighter: hsla(0, 0%, 100%, 0.3);
+  }
+  
+  .md-typeset .admonition,
+  .md-typeset details {
+    font-size: 0.8rem
+  }
+
+  .nt-card {
+    text-align: center;
+    min-height: 200px;
+}
+
+  .nt-card .nt-card-image img{
+    height:150px;
+    margin-top:5px
+}
+
+  .nt-card-text{
+    font-size:0.8rem;
+    padding:0;
+    margin:0
+}
+
+.md-banner {
+    background-color: chocolate;
+  }
