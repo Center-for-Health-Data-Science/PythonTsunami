@@ -1,11 +1,41 @@
-- title: J.A. Romero Herrera
+- title: Henrike Zschach
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0003-0045-0573) [:simple-github:](https://github.com/hezscha) <br>
+    DataLab Scientist
+  image: ./images/cards/henrike.jpeg
+
+- title: Ana Rita Cola&ccedil;o
+  content: |
+    [:simple-linkedin:](https://www.linkedin.com/in/ana-rita-cola%C3%A7o/) [:simple-github:](https://github.com/arcolaco) <br>
+    DataLab Scientist
+  image: ./images/cards/ana_rita.jpeg
+
+- title: I&ntilde;igo Prada Luengo
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-4392-0726) [:simple-github:](https://github.com/iprada) <br>
+    DataLab Scientist
+  image: ./images/cards/inigo_heads.png
+
+- title: Chloe Pittman
+  content: |
+    [:simple-linkedin:](https://www.linkedin.com/in/chloe-pittman/) <br>
+    DataLab Scientist
+  image: ./images/cards/chloe.jpg
+
+- title: Tugce Karaderi
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-9763-8139) [:simple-github:](https://github.com/tooche) <br>
+    DataLab Scientist
+  image: ./images/cards/tugce_karaderi.jpg
+
+- title: Viktoria Schuster
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-6016-8337) [:simple-github:](https://github.com/viktoriaschuster) <br>
+    DataLab Scientist
+  image: ./images/cards/viktoria.jpeg
+
+- title: J. A. Romero Herrera
   content: |
     [:custom-orcid:](https://orcid.org/0000-0002-4765-2087) [:simple-github:](https://github.com/joseale2310) <br>
     Data Scientist
-  image: https://avatars.githubusercontent.com/u/9451832?v=4
-
-- title: Conor O'Hare
-  content: |
-    [:simple-github:](https://github.com/conor-ohare) [:simple-linkedin:](https://www.linkedin.com/in/conorohare/) <br>
-    Data Scientist
-  image: https://avatars.githubusercontent.com/u/93766539?v=4
+  image: ./images/cards/jarh.jpeg
