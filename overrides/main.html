@@ -28,6 +28,21 @@
 
 {% endblock %}
 
+
+{% block site_nav %}
+  <!-- Add scripts that need to run before here -->
+  {{ super() }}
+
+  <!-- Script to delete navigation bar from jupyter notebooks -->
+  <script>
+    var doc_title= document.title
+    if(doc_title.match(/^\d/)) {
+        var div = document.getElementsByClassName('md-sidebar md-sidebar--primary');
+        div[0].parentNode.removeChild(div[0]);
+     }
+    </script >
+{% endblock %}
+
 {% block announce %}
 Page under construction - website not finalized
 {% endblock %}

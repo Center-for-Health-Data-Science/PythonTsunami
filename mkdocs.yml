@@ -162,7 +162,6 @@ nav:
   - "4. Loops": Loops/Loops.ipynb
   - "5. Pandas": Pandas/Pandas.ipynb
   - "6. Visualizations": Visualizations/plotly.ipynb
-  - "Jupyter notebook": jupyter_example.ipynb
   - "Keyword index": keywords.md
   - "Contributors": contributors.md
   
