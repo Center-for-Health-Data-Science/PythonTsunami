@@ -20,21 +20,18 @@ hide:
 -->
 
 <center>
-# Name of the Course
+# Python Tsunami: Introduction to Python programming language.
 </center>
 
-**Updated:** Date last updates
+**Updated:** 27/04/2023
 
-Here is where you will write an abstract about the course. This is an example of the use of citations [@creative_commons_2022]
+The course Python Tsunami is an 3-day introductory course to programming in the language Python. It is intended for researchers at SUND who are interested in learning how to use Python but who do not have any prior experience yet.
 
-<br>
+We will demonstrate how to run Python from Jupyter Notebooks hosted on google colab, a tool that is often used for data analysis. An overview of the fundamental Pythonic data structures will follow and participants will learn about containers, conditional statements and loops. Moreover, the course will introduce the Python library pandas that allows for efficient data manipulation. Lastly, we will give a first introduction to data visualization in Python.
 
-<!-- AUTHORS -->
-<h4>Authors</h4>
+## Authors
 
 [cards cols="4"(./develop/cards/cards.yaml)]
-
-<hr>
 
 <!-- OVERVIEW OF COURSE -->
 !!! abstract "Overview"
@@ -50,7 +47,7 @@ Here is where you will write an abstract about the course. This is an example of
     :clock: **Total Time Estimation:** 8 hours  
     [comment]: # (No Property in Bioschema)
 
-    [comment]: # :file_folder: **Supporting Materials:**  
+    <!-- :file_folder: **Supporting Materials:**   -->
     [comment]: # (Property in Bioschema: mentions)
 
     :man_technologist: **Target Audience:** Anyone 
@@ -67,10 +64,6 @@ Here is where you will write an abstract about the course. This is an example of
 
 !!! warning "Course Requirements"
     This course has no requirements
-
-The course Python Tsunami is an 3-day introductory course to programming in the language Python. It is intended for researchers at SUND who are interested in learning how to use Python but who do not have any prior experience yet.
-
-We will demonstrate how to run Python from Jupyter Notebooks hosted on google colab, a tool that is often used for data analysis. An overview of the fundamental Pythonic data structures will follow and participants will learn about containers, conditional statements and loops. Moreover, the course will introduce the Python library pandas that allows for efficient data manipulation. Lastly, we will give a first introduction to data visualization in Python.
 
 !!! info "Goals"
     By the end of this workshop, you should be able to:
