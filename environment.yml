@@ -1,0 +1,17 @@
+name: tsunami
+channels:
+  - defaults
+  # - plotly
+dependencies:
+  - python
+  - matplotlib
+  - pandas
+  - ipykernel
+  - ipywidgets>=7.5
+  - ipython
+  - scikit-learn
+  - seaborn
+  - jupyter
+  - plotly
+  - bs4
+  - requests

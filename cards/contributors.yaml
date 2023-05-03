@@ -1,0 +1,35 @@
+- title: Ana Rita Cola&ccedil;o
+  content: |
+    [:simple-linkedin:](https://www.linkedin.com/in/ana-rita-cola%C3%A7o/) [:simple-github:](https://github.com/arcolaco) <br>
+    Data Scientist
+  image: ./images/cards/ana_rita.jpeg
+
+- title: I&ntilde;igo Prada Luengo
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-4392-0726) [:simple-github:](https://github.com/iprada) <br>
+    Postdoc
+  image: ./images/cards/inigo_heads.png
+
+- title: Chloe Pittman
+  content: |
+    [:simple-linkedin:](https://www.linkedin.com/in/chloe-pittman/) [:simple-github:](https://github.com/ChloePittman) <br>
+    PhD Student
+  image: ./images/cards/chloe.jpg
+
+- title: Tugce Karaderi
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0001-9763-8139) [:simple-github:](https://github.com/tooche) <br>
+    Assistant Professor
+  image: ./images/cards/tugce_karaderi.jpg
+
+- title: Viktoria Schuster
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-6016-8337) [:simple-github:](https://github.com/viktoriaschuster) <br>
+    PhD Student
+  image: ./images/cards/viktoria.jpeg
+
+- title: J. A. Romero Herrera
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-4765-2087) [:simple-github:](https://github.com/joseale2310) <br>
+    Data Scientist
+  image: ./images/cards/jarh.jpeg
