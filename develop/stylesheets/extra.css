@@ -67,6 +67,19 @@
     margin:0
 }
 
-.md-banner {
+  .md-banner {
     background-color: chocolate;
   }
+
+  .responsible .nt-card{
+    margin: auto;
+    max-width: 200px;
+  }
+  
+  .responsible .nt-card .nt-card-image img {
+    height: 150px;
+}
+
+  .responsible .nt-card .nt-card-image {
+    min-height: 150px;
+}

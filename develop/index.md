@@ -4,7 +4,6 @@ summary: Index page of the Python Tsunami course
 date: 2023-04-28
 hide:
   - navigation
-  - toc
 ---
 
 <!--
@@ -20,7 +19,7 @@ hide:
 -->
 
 <center>
-# Python Tsunami: Introduction to Python programming language.
+# Python Tsunami: Introduction to Python programming language
 </center>
 
 **Updated:** 27/04/2023
@@ -29,11 +28,23 @@ The course Python Tsunami is an 3-day introductory course to programming in the 
 
 We will demonstrate how to run Python from Jupyter Notebooks hosted on google colab, a tool that is often used for data analysis. An overview of the fundamental Pythonic data structures will follow and participants will learn about containers, conditional statements and loops. Moreover, the course will introduce the Python library pandas that allows for efficient data manipulation. Lastly, we will give a first introduction to data visualization in Python.
 
-## Authors
+<center>
+## Course responsible
+</center>
 
-[cards cols="4"(./develop/cards/cards.yaml)]
+[cards class_name="responsible" cols="1"(./develop/cards/responsible.yaml)]
+
+<center>
+## Contributors
+</center>
+
+[cards cols="6"(./develop/cards/contributors.yaml)]
 
 <!-- OVERVIEW OF COURSE -->
+<center>
+## Course Information
+</center>
+
 !!! abstract "Overview"
     :book: **Syllabus:** 
 
@@ -74,14 +85,16 @@ We will demonstrate how to run Python from Jupyter Notebooks hosted on google co
       - Filtering
       - Selection
       - Merging
-    - Make several interactive visualizations using Plotly
+    - Make interactive visualizations using Plotly
 
-### Acknowledgements
+## Acknowledgements
 
 - Alberto Santos Delgado
 - Henry Webel
-- Annelayra Bach Nielsen
+- Annelaura Bach Nielsen
 
-### References
+<!--
+## References
 
 \bibliography
+-->
