@@ -10,14 +10,14 @@ __Please help us to improve the course by filling out the [feedback form](https:
 | DAY 1                                                | DAY 2                                                | DAY 3                                 |
 |------------------------------------------------------|------------------------------------------------------|---------------------------------------|
 | Morning coffee (optional)                             | Morning coffee (optional)                           | Morning coffee (optional)             |
-| [Introduction and Motivation](Introduction_and_tools) | [Pandas](Pandas)                                    | [Recap Quiz](Recap)                   |
+| [Introduction and Motivation](slides) | [Pandas](Pandas)                                    | [Recap Quiz](Recap)                   |
 | [Variables and data types](Variables_data_types)     |                                                      |                                       |
 | Coffee break                                         | Coffee break                                         | Coffee break                          |
 | [Iterables I](Iterables)                             | [Pandas](Pandas)                                     | [Visualization](Visualizations)       |
 | Coffee break                                         |                                                      |                                       |
 | [Iterables II](Iterables)                            |                                                      |                                       |
 | Lunch                                                | Lunch                                                | Lunch                                 |
-| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     | Virtual envs and installations        |
+| [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     | [Virtual envs and installations](slides)        |
 | Coffee break                                         | Coffee break                                         | Coffee break                          |
 | [Loops](Loops)                                       | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
 | Q & A                                                | Q & A                                                | Q & A                                 |
