@@ -4,7 +4,7 @@
 <p align="center">
   <img src="figures/tsunami_logo.PNG" width="600">
 
-__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/e/WrZtM5dn8F)__  
+__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/e/m0ev3Sfx6h)__  
   
   
 | DAY 1                                                | DAY 2                                                | DAY 3                                 |
@@ -22,7 +22,7 @@ __Please help us to improve the course by filling out the [feedback form](https:
 | [Loops](Loops)                                       | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
 | Q & A                                                | Q & A                                                | Q & A                                 |
 
-## Program March 2023
+## Program October 2023
 ![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/oct_2022_3days/figures/program_march2023.png)
 
 
