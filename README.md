@@ -23,7 +23,7 @@ __Please help us to improve the course by filling out the [feedback form](https:
 | Q & A                                                | Q & A                                                | Q & A                                 |
 
 ## Program October 2023
-![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/oct_2022_3days/figures/program_march2023.png)
+![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/tree/march_2023/figures/program.PNG)
 
 
 ## Further Resources
