@@ -22,8 +22,8 @@ __Please help us to improve the course by filling out the [feedback form](https:
 | [Loops](Loops)                                       | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
 | Q & A                                                | Q & A                                                | Q & A                                 |
 
-## Program October 2023
-![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/march_2023/figures/program.PNG)
+## Program April 2024
+![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/figures/program.PNG)
 
 ## Further Resources
 
