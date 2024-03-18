@@ -6,8 +6,8 @@
 
 notebook             | content
 ----                 | ------
-[Pandas.ipynb](Pandas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/march_2023/Pandas/Pandas.ipynb) | Pandas
-[IO_Pandas.ipynb](IO_Pandas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/march_2023/Pandas/IO_Pandas.ipynb) | Reading data with Pandas
+[Pandas.ipynb](Pandas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Pandas/Pandas.ipynb) | Pandas
+[IO_Pandas.ipynb](IO_Pandas.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Pandas/IO_Pandas.ipynb) | Reading data with Pandas
 
 
 ## Description

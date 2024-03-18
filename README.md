@@ -4,7 +4,7 @@
 <p align="center">
   <img src="figures/tsunami_logo.PNG" width="600">
 
-__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/e/m0ev3Sfx6h)__  
+__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/e/XhdVawyuwp)__  
   
   
 | DAY 1                                                | DAY 2                                                | DAY 3                                 |
