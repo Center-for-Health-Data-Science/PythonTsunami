@@ -7,6 +7,7 @@
 notebook             | content
 ----                 | ------
 [plotly.ipynb](plotly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Visualizations/plotly.ipynb)| Plotly Express library [Be aware: [Plots stays interactive in nbviewer](https://nbviewer.org/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Visualizations/plotly.ipynb#Bar-Charts)]
+[plotly_extra_material.ipynb](plotly_extra_material.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Visualizations/plotly_extra_material.ipynb)| Advanced plotting in plotly
 [PlotlyExpress_ComprehensiveGuide.ipynb](PlotlyExpress_ComprehensiveGuide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Visualizations/PlotlyExpress_ComprehensiveGuide.ipynb)| PlotlyExpress library guide (extensive external resource)
 
 ## Installing Plotly
