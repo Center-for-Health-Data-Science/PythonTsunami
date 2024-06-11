@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[list_comprehension.ipynb](list_comprehension.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Extra/list_comprehension.ipynb) | List Comprehension
+[List_comprehension.ipynb](List_comprehension.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Extra/List_comprehension.ipynb) | List Comprehension
