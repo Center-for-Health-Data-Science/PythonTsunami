@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[recap.ipynb](recap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_april/Recap/recap.ipynb)| Recap
+[recap.ipynb](recap.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/2024_Oct/Recap/recap.ipynb)| Recap
