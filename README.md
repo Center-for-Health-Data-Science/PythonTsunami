@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="figures/HeaDS_logo_large_withTitle.png" width="300">
-</p>
-<p align="center">
-  <img src="figures/tsunami_logo.PNG" width="600">
+  <img src="figures/tsunami_logo.PNG">
 
 __Please help us to improve the course by filling out the [feedback form](https://forms.office.com/e/UL3w7D3Q94)__ 
   
