@@ -16,7 +16,7 @@ __Please help us to improve the course by filling out the [feedback form](https:
 | Lunch                                                | Lunch                                                | Lunch                                 |
 | [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     | [Virtual envs and installations](slides)        |
 | Coffee break                                         | Coffee break                                         | Coffee break                          |
-| [Loops](Loops_and_functions)                         | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
+| [Loops](Loops)                                       | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
 | Q & A                                                | Q & A                                                | Q & A                                 |
 
 ## Detailed Program - November 2025
