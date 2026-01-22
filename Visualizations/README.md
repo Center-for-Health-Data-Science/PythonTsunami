@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="../figures/HeaDS_logo_large_withTitle.png" width="300">
-</p>
-<p align="center">
   <img src="../figures/tsunami_logo.PNG" width="600">
 
 notebook             | content
