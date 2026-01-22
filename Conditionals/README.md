@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../figures/tsunami_logo.PNG" width="300">
+  <img src="../figures/tsunami_logo.PNG" width="600">
 </p>
 
 notebook             | content
