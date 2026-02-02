@@ -19,7 +19,7 @@ __Please help us to improve the course by filling out the [feedback form](https:
 | [Loops](Loops)                                       | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
 | [Functions](Functions)                               | Q & A                                                | Q & A                                 |
 
-## Detailed Program - November 2025
+## Detailed Program - Februari 2026
 ![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/march2026/figures/program.PNG)
 
 ## Further Resources
