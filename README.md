@@ -1,7 +1,7 @@
 <p align="center">
   <img src="figures/tsunami_logo.PNG">
 
-__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/e/UL3w7D3Q94)__ 
+__Please help us to improve the course by filling out the [feedback form](https://forms.office.com/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftUOFZOUkUxU0JVNkFTUzUxWDFGTzlDRFY1USQlQCN0PWcu)__ 
   
   
 | DAY 1                                                | DAY 2                                                | DAY 3                                 |
