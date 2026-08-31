@@ -20,7 +20,7 @@ __Please help us to improve the course by filling out the [feedback form](https:
 | [Functions](Functions)                               | Q & A                                                | Q & A                                 |
 
 ## Detailed Program:
-![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/march2026/figures/program.PNG)
+![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/2026_oct/figures/2026oct_schedule.PNG)
 
 ## Further Resources
 
