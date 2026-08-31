@@ -6,9 +6,9 @@ __Please help us to improve the course by filling out the [feedback form](https:
   
 | DAY 1                                                | DAY 2                                                | DAY 3                                 |
 |------------------------------------------------------|------------------------------------------------------|---------------------------------------|
-| Morning coffee (optional)                             | Morning coffee (optional)                           | Morning coffee (optional)             |
-| [Introduction and Motivation](slides) | [Pandas](Pandas)                                    | [Recap Quiz](Recap)                   |
-| [Variables and data types](Variables_data_types)     |                                                      |                                       |
+| Morning coffee (optional)                            | Morning coffee (optional)                           | Morning coffee (optional)             |
+| [Introduction and Motivation](slides)                | [Functions](Functions)                              | [Recap Quiz](Recap)                   |
+| [Variables and data types](Variables_data_types)     | [Recap Quiz](Recap)                                 | [Visualization](Visualizations)                                 |
 | Coffee break                                         | Coffee break                                         | Coffee break                          |
 | [Iterables I](Iterables)                             | [Pandas](Pandas)                                     | [Visualization](Visualizations)       |
 | Coffee break                                         |                                                      |                                       |
@@ -17,10 +17,9 @@ __Please help us to improve the course by filling out the [feedback form](https:
 | [Booleans, operators and conditions](Conditionals)   | [Pandas](Pandas)                                     | [Virtual envs and installations](slides)        |
 | Coffee break                                         | Coffee break                                         | Coffee break                          |
 | [Loops](Loops)                                       | [Pandas](Pandas)                                     | [Dataset Exercise](Exercise)          |
-| [Functions](Functions)                               | Q & A                                                | Q & A                                 |
-
+|                               | Q & A                                                | Q & A                                 |
 ## Detailed Program:
-![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/2026_oct/figures/2026oct_schedule.PNG)
+![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/2026_oct/figures/program.PNG)
 
 ## Further Resources
 
